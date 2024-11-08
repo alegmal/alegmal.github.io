@@ -1,0 +1,127 @@
+body {
+  background-color: white;
+  font-family: Lobster;
+  padding: 0;
+  margin:0;
+}
+
+a {
+  color: #337ab7 !important;
+}
+
+.bgmarger {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.pageOne {
+  background:url("http://www.olegito.com/images/pbg1.jpg") no-repeat center center fixed;
+  background-size: cover;
+  margin:0;
+  padding: 0;
+}
+
+.headera {
+  font-size: 2em !important;
+}
+
+.navbar-nav{
+  font-size: 1.5em;
+}
+
+.mainname {
+  margin-top: 140px;
+  margin-bottom: -20px;
+  font-size: 5.5em;
+  color: 	#FFFFFF;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+h4 {
+  font-size: 1.8em;
+  font-family: Open Sans;
+  color: 	#FFFFFF;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+  
+}
+
+.btn-default {
+  color: #337ab7;
+  font-size: 1.3em;
+  margin: 5px;
+}
+
+.pageTwo {
+ background:url("http://www.olegito.com/images/pbg7.jpg");
+ background-size: cover;
+}
+
+.abouth {
+  padding: 110px 0 0 0;
+  margin:0;
+  font-size: 4em;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #000;  
+}
+
+.aboutp {
+  margin-top: 10px;
+  background-color: white;
+  font-family: Open Sans;
+  font-size:1.8em;
+  color: #505050;
+  border: 1px solid black;
+  box-shadow: 4px 4px 1px rgba(0,0,0,0.6);
+}
+
+.img-thumbnail {
+  margin-top: 260px;
+  margin-left: 50px;
+  width: 250px;
+  border: 1px solid black;
+  box-shadow: 4px 4px 1px rgba(0,0,0,0.6);
+}
+
+.pageThree {
+ background:url("http://www.olegito.com/images/pbg5.jpg") no-repeat center center fixed;
+ background-size: cover;
+}
+
+.portfolioh {
+  font-size: 4em;
+  color: 	#FFFFFF;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.adventures {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.adventuresthumb {
+  transition: 2s;
+}
+
+.adventuresthumb:hover {
+  transition: 0.3s;
+  box-shadow: 10px 10px 5px rgb(0,0,0);
+}
+
+#totop {
+  margin-top: 30px;
+}
